@@ -1,4 +1,4 @@
-# DOS Blocker Firewall
+# DoS Blocker Firewall
 
 The DoS Firewall is a Python-based security solution that detects and mitigates Denial-of-Service (DoS) attacks using Scapy. It monitors network traffic in real-time, identifying and blocking malicious IPs to enhance system security and stability.
 
